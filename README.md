@@ -1,7 +1,7 @@
 ### NAME : GOWRI M
 ### REG NO : 212220230019
 
-# <p align="center"> WORKSHOP-1</P>
+# <p align="center"> WORKSHOP-2</P>
 
 ## AIM:
 To Add the contact list using Intent Android Studio.
